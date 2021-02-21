@@ -1,0 +1,2 @@
+export const SET_TITLE_LIST = 'SET_TITLE_LIST'
+export const SET_LOCAL_LIST = 'SET_LOCAL_LIST'

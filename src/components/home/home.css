@@ -1,0 +1,126 @@
+.parentDiv {
+  background: black;
+  padding: 30px;
+  height: calc(100vh - 60px);
+  width: calc(100% - 60px);
+}
+
+.parentTo1 {
+  height: calc(30% - 30px);
+  background-color: #3458a5;
+  position: absolute;
+  width: calc(100% - 60px);
+}
+
+.parentTo2 {
+  height: calc(70% - 30px);
+  background-color: rgb(217, 227, 243);
+  position: absolute;
+  width: calc(100% - 60px);
+  top: 30%;
+}
+
+.mainContainer {
+  position: relative;
+  padding: 30px;
+  height: calc(100% - 60px);
+  display: flex;
+  flex-direction: column;
+}
+
+.searchBoxDiv {
+  display: flex;
+}
+
+.searchBox::placeholder {
+  color: #3458a5;
+  opacity: 1;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.searchBox {
+  line-height: 30px;
+  border: 6px solid white;
+  background-color: rgb(217, 227, 243);
+  font-size: 15px;
+  margin-bottom: 50px;
+  flex: 1;
+}
+
+.itemsListsParentDiv {
+  background-color: white;
+  padding: 10px 10px;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.headingItems {
+  color: #3458a5;
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.itemsListsParentDiv span {
+  float: right;
+  color: #3458a5;
+  padding-right: 10px;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.itemLists {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.itemList {
+  border-radius: 10px;
+  padding: 10px;
+  height: 100px;
+  width: calc(30% - 10px);
+  margin-bottom: 20px;
+  margin-right: 10px;
+  border-color: whitesmoke;
+  border: 1px solid rgb(235, 229, 229);
+  box-shadow: 5px 10px #e7e6e6;
+}
+
+.titleText {
+  color: #3458a5;
+  font-weight: 500;
+  font-size: 18px;
+  text-shadow: 2px 2px 4px #6e6b6b;
+}
+
+.descriptionText {
+  color: rgb(85, 81, 81);
+  font-size: 14px;
+  text-shadow: 2px 2px 4px #6e6b6b;
+}
+
+.addItemDiv {
+  position: absolute;
+  z-index: 100;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+  background-color: rgb(233, 238, 246);
+  border-radius: 10px;
+  box-shadow: 10px 10px #d3d2d2;
+}
+
+.addItemDivInner {
+  padding: 0px 20px 20px 50px;
+  align-content: center;
+}
+
+.addTitleInput {
+  width: 80%;
+  line-height: 20px;
+}
+
+.addDescInput {
+  width: 80%;
+  line-height: 40px;
+}
