@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7BDigital-Agents%7D/static/css/main.7d290a81.chunk.css",
-    "main.js": "/%7BDigital-Agents%7D/static/js/main.ebdc8927.chunk.js",
-    "main.js.map": "/%7BDigital-Agents%7D/static/js/main.ebdc8927.chunk.js.map",
-    "runtime-main.js": "/%7BDigital-Agents%7D/static/js/runtime-main.6d40d2ce.js",
-    "runtime-main.js.map": "/%7BDigital-Agents%7D/static/js/runtime-main.6d40d2ce.js.map",
-    "static/js/2.1cd34731.chunk.js": "/%7BDigital-Agents%7D/static/js/2.1cd34731.chunk.js",
-    "static/js/2.1cd34731.chunk.js.map": "/%7BDigital-Agents%7D/static/js/2.1cd34731.chunk.js.map",
-    "static/js/3.3f2ef25c.chunk.js": "/%7BDigital-Agents%7D/static/js/3.3f2ef25c.chunk.js",
-    "static/js/3.3f2ef25c.chunk.js.map": "/%7BDigital-Agents%7D/static/js/3.3f2ef25c.chunk.js.map",
-    "index.html": "/%7BDigital-Agents%7D/index.html",
-    "static/css/main.7d290a81.chunk.css.map": "/%7BDigital-Agents%7D/static/css/main.7d290a81.chunk.css.map",
-    "static/js/2.1cd34731.chunk.js.LICENSE.txt": "/%7BDigital-Agents%7D/static/js/2.1cd34731.chunk.js.LICENSE.txt"
+    "main.css": "/Digital-Agents/static/css/main.7d290a81.chunk.css",
+    "main.js": "/Digital-Agents/static/js/main.ebdc8927.chunk.js",
+    "main.js.map": "/Digital-Agents/static/js/main.ebdc8927.chunk.js.map",
+    "runtime-main.js": "/Digital-Agents/static/js/runtime-main.4e2a4b88.js",
+    "runtime-main.js.map": "/Digital-Agents/static/js/runtime-main.4e2a4b88.js.map",
+    "static/js/2.1cd34731.chunk.js": "/Digital-Agents/static/js/2.1cd34731.chunk.js",
+    "static/js/2.1cd34731.chunk.js.map": "/Digital-Agents/static/js/2.1cd34731.chunk.js.map",
+    "static/js/3.3f2ef25c.chunk.js": "/Digital-Agents/static/js/3.3f2ef25c.chunk.js",
+    "static/js/3.3f2ef25c.chunk.js.map": "/Digital-Agents/static/js/3.3f2ef25c.chunk.js.map",
+    "index.html": "/Digital-Agents/index.html",
+    "static/css/main.7d290a81.chunk.css.map": "/Digital-Agents/static/css/main.7d290a81.chunk.css.map",
+    "static/js/2.1cd34731.chunk.js.LICENSE.txt": "/Digital-Agents/static/js/2.1cd34731.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d40d2ce.js",
+    "static/js/runtime-main.4e2a4b88.js",
     "static/js/2.1cd34731.chunk.js",
     "static/css/main.7d290a81.chunk.css",
     "static/js/main.ebdc8927.chunk.js"
